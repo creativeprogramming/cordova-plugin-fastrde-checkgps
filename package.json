@@ -11,7 +11,7 @@
     },
     "repository":{
         "type":"git",
-        "url":"git+https://github.com/creativeprogramming/CordovaClipboard.git"
+        "url":"git+https://github.com/creativeprogramming/cordova-plugin-fastrde-checkgps.git"
     },
     "keywords":[
         "gps",
@@ -26,7 +26,7 @@
     "author":"",
     "license":"MIT",
     "bugs":{
-        "url":"https://github.com/creativeprogramming/CordovaClipboard/issues"
+        "url":"https://github.com/creativeprogramming/cordova-plugin-fastrde-checkgps/issues"
     },
-    "homepage":"https://github.com/creativeprogramming/CordovaClipboard#readme"
+    "homepage":"https://github.com/creativeprogramming/cordova-plugin-fastrde-checkgps#readme"
 }
