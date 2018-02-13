@@ -1,6 +1,6 @@
 {
     "name":"cordova-checkgps",
-    "version":"0.1.0",
+    "version":"0.9.9",
     "description":"Check GPS plugin for Cordova/PhoneGap",
     "cordova":{
         "id":"it.creativeprogramming.plugins.checkGPS",
